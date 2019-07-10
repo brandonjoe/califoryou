@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/califoryou/static/css/main.6d5a39f4.chunk.css",
+    "main.js": "/califoryou/static/js/main.f5e34355.chunk.js",
+    "main.js.map": "/califoryou/static/js/main.f5e34355.chunk.js.map",
+    "runtime~main.js": "/califoryou/static/js/runtime~main.0bf35ea9.js",
+    "runtime~main.js.map": "/califoryou/static/js/runtime~main.0bf35ea9.js.map",
+    "static/js/2.e1475378.chunk.js": "/califoryou/static/js/2.e1475378.chunk.js",
+    "static/js/2.e1475378.chunk.js.map": "/califoryou/static/js/2.e1475378.chunk.js.map",
+    "index.html": "/califoryou/index.html",
+    "precache-manifest.33ad57c3fefb7ea3af4f309eb45f6ace.js": "/califoryou/precache-manifest.33ad57c3fefb7ea3af4f309eb45f6ace.js",
+    "service-worker.js": "/califoryou/service-worker.js",
+    "static/css/main.6d5a39f4.chunk.css.map": "/califoryou/static/css/main.6d5a39f4.chunk.css.map",
+    "static/media/Intro.module.css": "/califoryou/static/media/intro_background.a091b377.jpg"
+  }
+}
