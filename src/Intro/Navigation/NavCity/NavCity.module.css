@@ -1,0 +1,11 @@
+.container{
+    height: 100%;
+    padding: 2rem;
+    overflow: hidden;
+}
+.container:hover{
+    background: rgb(80, 161, 141);
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: rgb(175, 175, 175);
+}
