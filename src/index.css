@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+@font-face {
+  font-family: 'MontserratBold';
+  src:  url('./media/Montserrat-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+    
+}
+@font-face {
+  font-family: 'Montserrat';
+  src:  url('./media/Montserrat-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    
+}

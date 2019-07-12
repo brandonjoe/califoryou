@@ -1,0 +1,21 @@
+.container{
+    height: 100%;
+    position: relative;
+   
+
+}
+.city{
+    position: absolute;
+    bottom: 5rem;
+    right: 5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.greybox{
+    position: absolute;
+    height: 50%;
+    left: -1rem;
+    top: -1rem;
+    background: red;
+    z-index: 100;
+}

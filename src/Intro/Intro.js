@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import classes from "./Intro.module.css";
 import Navigation from './Navigation/Navigation.js'
 
+import logo from '../media/logo_retina.png'
 import mapbutton from '../media/map_button.png'
 import searchbutton from '../media/search_button.png'
 class Intro extends Component {
@@ -9,8 +10,8 @@ class Intro extends Component {
     return (
       <div className={classes.container}>
         <div className={classes.header}>
-          <h1 className={classes.title}>califor<span className={classes.titleColor}>you</span></h1>
-          <h1 className={classes.icons}>
+          <img src={logo} className={classes.logo}/>
+          <h1 className={classes.icons} >
             <img className={classes.icon} src={mapbutton}></img>
             <img className={classes.icon} src={searchbutton}></img>
           </h1>
