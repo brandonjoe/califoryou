@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72485298e4abfb769d90c7af01d1b20d",
+    "revision": "0109b8ceceb71e081bdd505ce246b58e",
     "url": "/califoryou/index.html"
   },
   {
-    "revision": "cbee522eb9fba7bcd603",
-    "url": "/califoryou/static/css/main.96a405c3.chunk.css"
+    "revision": "072c576bdd4cb36b32f3",
+    "url": "/califoryou/static/css/main.0af49374.chunk.css"
   },
   {
     "revision": "f4a9a069089cc90afeeb",
     "url": "/califoryou/static/js/2.a0414c85.chunk.js"
   },
   {
-    "revision": "cbee522eb9fba7bcd603",
+    "revision": "072c576bdd4cb36b32f3",
     "url": "/califoryou/static/js/main.01cff11d.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/califoryou/static/css/main.96a405c3.chunk.css",
+    "main.css": "/califoryou/static/css/main.0af49374.chunk.css",
     "main.js": "/califoryou/static/js/main.01cff11d.chunk.js",
     "main.js.map": "/califoryou/static/js/main.01cff11d.chunk.js.map",
     "runtime~main.js": "/califoryou/static/js/runtime~main.0bf35ea9.js",
@@ -8,9 +8,9 @@
     "static/js/2.a0414c85.chunk.js": "/califoryou/static/js/2.a0414c85.chunk.js",
     "static/js/2.a0414c85.chunk.js.map": "/califoryou/static/js/2.a0414c85.chunk.js.map",
     "index.html": "/califoryou/index.html",
-    "precache-manifest.e5110db40b4bab16065c63d89fcb9888.js": "/califoryou/precache-manifest.e5110db40b4bab16065c63d89fcb9888.js",
+    "precache-manifest.fff81ee31065b5e4a93b0b2fd0d74e18.js": "/califoryou/precache-manifest.fff81ee31065b5e4a93b0b2fd0d74e18.js",
     "service-worker.js": "/califoryou/service-worker.js",
-    "static/css/main.96a405c3.chunk.css.map": "/califoryou/static/css/main.96a405c3.chunk.css.map",
+    "static/css/main.0af49374.chunk.css.map": "/califoryou/static/css/main.0af49374.chunk.css.map",
     "static/media/index.css": "/califoryou/static/media/Montserrat-Regular.a8a11736.ttf",
     "static/media/bigsur.png": "/califoryou/static/media/bigsur.2276be1f.png",
     "static/media/ggbridge.png": "/califoryou/static/media/ggbridge.c806fe8a.png",
