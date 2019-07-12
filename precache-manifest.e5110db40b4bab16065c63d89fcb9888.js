@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7accc7a17a47d4d9e8e676b112ef944b",
+    "revision": "72485298e4abfb769d90c7af01d1b20d",
     "url": "/califoryou/index.html"
   },
   {
-    "revision": "4256623088602093faf6",
-    "url": "/califoryou/static/css/main.bc3cd91c.chunk.css"
+    "revision": "cbee522eb9fba7bcd603",
+    "url": "/califoryou/static/css/main.96a405c3.chunk.css"
   },
   {
-    "revision": "85c01d7dfa90b895e380",
-    "url": "/califoryou/static/js/2.5fbfcee7.chunk.js"
+    "revision": "f4a9a069089cc90afeeb",
+    "url": "/califoryou/static/js/2.a0414c85.chunk.js"
   },
   {
-    "revision": "4256623088602093faf6",
-    "url": "/califoryou/static/js/main.47c03026.chunk.js"
+    "revision": "cbee522eb9fba7bcd603",
+    "url": "/califoryou/static/js/main.01cff11d.chunk.js"
   },
   {
     "revision": "bb93b383576b20d0ba25",
     "url": "/califoryou/static/js/runtime~main.0bf35ea9.js"
   },
   {
-    "revision": "a3b387c93882604792867736aecd56c8",
-    "url": "/califoryou/static/media/Montserrat-Bold.a3b387c9.ttf"
+    "revision": "940ace70d6c766e685a20dea33762abf",
+    "url": "/califoryou/static/media/AmericanTypewriterRegular.940ace70.ttf"
   },
   {
-    "revision": "e375c6fe9bbeadb38d4911107e480378",
-    "url": "/califoryou/static/media/Montserrat-ExtraBold.e375c6fe.ttf"
+    "revision": "a3b387c93882604792867736aecd56c8",
+    "url": "/califoryou/static/media/Montserrat-Bold.a3b387c9.ttf"
   },
   {
     "revision": "a8a117360e71de94ae3b0b0f8d15b44d",
