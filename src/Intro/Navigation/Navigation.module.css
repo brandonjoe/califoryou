@@ -12,7 +12,7 @@
     align-items: center;
     overflow: hidden;
     font-size: 2.2rem;
-    font-family: 'Nunito', sans-serif;
+ 
     font-weight: 800;
     line-height: 3rem;
     letter-spacing: 3px;
@@ -22,7 +22,7 @@
     justify-content: flex-start;
     align-items: center;
     font-size: 2.2rem;
-    font-family: 'MontserratBold', sans-serif;
+    font-family: "Montserrat";
     text-transform: uppercase;
     font-weight: 600;
     line-height: 3rem;

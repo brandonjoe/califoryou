@@ -21,3 +21,8 @@ code {
   src:  url('./media/Montserrat-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
     
 }
+@font-face {
+  font-family: 'AmericanTypewriter';
+  src:  url('./media/AmericanTypewriterRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    
+}

@@ -22,8 +22,8 @@ class Main extends Component {
           </div>
           <div className={classes.section1}>
               <div className={classes.top}>
-                  <FeatureImage img={ggbridge} city={"San Francisco"} activity={"Travel"} />
-                  <FeatureImage img={bigsur} city={"Big Sur"} activity={"Camping"} />
+                  <FeatureImage img={ggbridge} city={"San Francisco"} activity={"Travel"} color={'#f48554'}  />
+                  <FeatureImage img={bigsur} city={"Big Sur"} activity={"Camping"} color={'#8c824f'}/>
               </div>
           </div>
         </div>
