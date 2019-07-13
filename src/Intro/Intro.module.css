@@ -24,11 +24,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 17rem;
+  height: 14rem;
 }
 .logo{
   display: block;
   margin-left: 5rem;
+  height: 50%;
 }
 .icons {
   display: flex;
@@ -43,43 +44,44 @@
 }
 .cityActivities {
   position: relative;
-  font-size: 5rem;
+
   float: right;
   top: 0;
   right: 0;
   height: auto;
   background: rgba(47, 189, 129, 0.274);
   width: 40%;
-  clip-path: polygon(0 0, 100% 0%, 100% 100%, 51% 100%);
+  clip-path: polygon(0 0, 100% 0%, 100% 100%,45% 100%);
   text-align: left;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
   margin-top: 2rem;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 
 }
 
 .city {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 300;
   position: absolute;
   bottom: 0rem;
   left: 0rem;
   font-family: "Montserrat";
-  padding: 10rem;
+  padding: 5rem;
   background-image: linear-gradient(
     to top right,
-    rgba(0, 0, 0, 0.397),
+    rgba(0, 0, 0, 0.185),
     rgba(0, 0, 0, 0)
   );
+  text-shadow: 5px 5px 30px#000000;
 }
 .activities{
-    margin: 1rem 4rem 1rem 0;
+    margin: .7rem 4rem .7rem 0;
     font-weight: 700;
-    font-size: 3rem;
+    font-size: 2.3rem;
     font-family: "Montserrat";
     text-transform: uppercase;
     letter-spacing: 2px;

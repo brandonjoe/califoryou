@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'AmericanTypewriter';
+    src:  url('../../media/AmericanTypewriterRegular.ttf')  format('truetype') /* Safari, Android, iOS */
+      
+  }
+  @font-face {
+    font-family: 'Futura';
+    src:  url('../../media/Futura.ttf')  format('truetype') /* Safari, Android, iOS */
+      
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.img2{
+    width: 100%;
+}
+.header{
+    font-family: 'AmericanTypewriter';
+    width: 100%;
+    background: rgb(76, 76, 76);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.activity{
+    font-size: 1.9rem;
+}
+.city{
+    font-size: 1.2rem;
+}
+.readMore{
+    font-family: 'Futura';
+    padding: .5rem 1.4rem .5rem 1.4rem;
+    background: rgb(91, 169, 151);
+    text-transform: uppercase;
+    font-size: 2rem;
+    border-radius: 10px;
+    transition: all .2s;
+}
+.readMore:hover{
+    transform: scale(1.05);
+    background: rgb(138, 192, 179);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}

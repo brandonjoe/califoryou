@@ -23,6 +23,11 @@ code {
 }
 @font-face {
   font-family: 'AmericanTypewriter';
-  src:  url('./media/AmericanTypewriterRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+  src:  url('./media/Futura.ttf')  format('truetype'), /* Safari, Android, iOS */
+    
+}
+@font-face {
+  font-family: 'Futura';
+  src:  url('./media/Futura.ttf')  format('truetype'), /* Safari, Android, iOS */
     
 }
