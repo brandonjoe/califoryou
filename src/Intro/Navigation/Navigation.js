@@ -7,17 +7,17 @@ class Navigation extends Component {
     return (
       <div className={classes.container}>
         <div className={classes.cities}>
-          <NavCity cityName={"San Diego"} />
+          <NavCity name={"San Diego"} />
           ·
-          <NavCity cityName={"Los Angeles"} />
+          <NavCity name={"Los Angeles"} />
           ·
-          <NavCity cityName={"Santa Barbara"} />
+          <NavCity name={"Santa Barbara"} />
           ·
-          <NavCity cityName={"San Luis Obispo"} />
+          <NavCity name={"San Luis Obispo"} />
           ·
-          <NavCity cityName={"Monterey"} />
+          <NavCity name={"Monterey"} />
           ·
-          <NavCity cityName={"San Francisco"} />
+          <NavCity name={"San Francisco"} />
         </div>
         <div className={classes.selectedCity}>
              {/* Something like this would have to be taken from state, I put Los angeles in here for now */}

@@ -3,6 +3,7 @@ import classes from "./Main.module.css";
 import FeatureImage from './FeatureImage/FeatureImage'
 import BigPreview from './BigPreview/BigPreview'
 import SmallPreview from './SmallPreview/SmallPreview'
+import ActivityNavigation from '../ActivityNavigation/ActivityNavigation.js'
 
 import ggbridge from '../media/ggbridge.png'
 import bigsur from '../media/bigsur.png';
@@ -60,7 +61,9 @@ class Main extends Component {
               <SmallPreview img3={disney} name3={'Disneyland'} city={'Anehiem, California'}/>
             </div> 
           </div> 
+       
         </div>
+    
       </div>
     );
   }
