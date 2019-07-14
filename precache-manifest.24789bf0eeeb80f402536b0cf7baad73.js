@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af73794066a17a4421ec4bc353f63a1e",
+    "revision": "89df6a391789fecfef864a40a470db94",
     "url": "/califoryou/index.html"
   },
   {
-    "revision": "e220307e16064eee0f9e",
-    "url": "/califoryou/static/css/main.88af7d2f.chunk.css"
+    "revision": "c700eef7159d292ed6b2",
+    "url": "/califoryou/static/css/main.440c2cf1.chunk.css"
   },
   {
-    "revision": "4f9aa369ed90d9e2468f",
-    "url": "/califoryou/static/js/2.b8f7c1e4.chunk.js"
+    "revision": "f59bf02aed8d83d29b79",
+    "url": "/califoryou/static/js/2.f262f2b9.chunk.js"
   },
   {
-    "revision": "e220307e16064eee0f9e",
-    "url": "/califoryou/static/js/main.9f261966.chunk.js"
+    "revision": "c700eef7159d292ed6b2",
+    "url": "/califoryou/static/js/main.dd222cb8.chunk.js"
   },
   {
     "revision": "bb93b383576b20d0ba25",
