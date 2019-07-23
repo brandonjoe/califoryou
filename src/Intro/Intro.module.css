@@ -4,7 +4,7 @@
     
 }
 .container {
-  
+  overflow: hidden;
   top: 0;
   left: 0;
   height: 100vh;
@@ -41,23 +41,27 @@
   height: 5rem;
   width: 5rem;
   margin: 1rem;
+  overflow: hidden;
+}
+.activity{
+  display: flex;
+  width: 100%; 
+  height: fill;
+  flex-direction: row-reverse;
 }
 .cityActivities {
-  position: relative;
 
-  float: right;
-  top: 0;
-  right: 0;
-  height: auto;
+  position: relative;
+  height: fill;
   background: rgba(47, 189, 129, 0.274);
   width: 40%;
   clip-path: polygon(0 0, 100% 0%, 100% 100%,45% 100%);
   text-align: left;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-end;
-  margin-top: 2rem;
+
   padding-top: 2rem;
   padding-bottom: 2rem;
 
@@ -81,7 +85,7 @@
 .activities{
     margin: .7rem 4rem .7rem 0;
     font-weight: 700;
-    font-size: 2.3rem;
+    font-size: 2.8rem;
     font-family: "Montserrat";
     text-transform: uppercase;
     letter-spacing: 2px;

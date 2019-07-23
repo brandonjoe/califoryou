@@ -18,19 +18,22 @@ class Intro extends Component {
         </div>
         <Navigation />
         <div className={classes.city}>Los Angeles, CA</div>
+        <div className={classes.activity}>
         <div className={classes.cityActivities}>
          
-          <div className={classes.activities}>Music Events</div>
-          <div className={classes.activities}>Festivals</div>
-          <div className={classes.activities}>NightLife</div>
-          <div className={classes.activities}>Beaches</div>
-          <div className={classes.activities}>Sports</div>
-          <div className={classes.activities}>Museums</div>
-          <div className={classes.activities}>Hiking</div>
-          <div className={classes.activities}>Camping</div>
-          <div className={classes.activities}>OutDoors</div>
+         <div className={classes.activities}>Music Events</div>
+         <div className={classes.activities}>Festivals</div>
+         <div className={classes.activities}>NightLife</div>
+         <div className={classes.activities}>Beaches</div>
+         <div className={classes.activities}>Sports</div>
+         <div className={classes.activities}>Museums</div>
+         <div className={classes.activities}>Hiking</div>
+         <div className={classes.activities}>Camping</div>
+         <div className={classes.activities}>OutDoors</div>
 
+       </div>
         </div>
+        
       </div>
     );
   }
